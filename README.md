@@ -16,5 +16,6 @@
   - при перезагрузке страници избранные породы загружаются из localStorage
   - удалить породу из избранных можно нажав кнопку 'delete' в списке избранных
   - в блоке с картой должен отображатся ваш город
+  - плюсом будет использование Bootstrap
 
 ![Mock UP](https://github.com/AlexOrd/cobra-js-wrap-up/blob/master/Homepage.png?raw=true)
