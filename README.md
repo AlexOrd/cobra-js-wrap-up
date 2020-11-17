@@ -3,9 +3,6 @@
 ![N|JS](https://coursework.vschool.io/content/images/2016/03/javascript-logo-banner.jpg)
 
 Поздравляю Вас с окончанием модуля по JavaScript :)
-### Ваш эказмен будет состоять из 2 частей:
-    1. Задание из ЛМС (дата выдачи 30.10, дедлайн 6.11)
-    2. Веб-приложение TheDogAPI (дата выдачи 27.10, дедлайн 2.11)
 
 ## TheDogAPI
 
